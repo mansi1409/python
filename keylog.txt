@@ -1,0 +1,37 @@
+2025-03-06 00:35:23,295: Special key Key.right pressed
+2025-03-06 00:35:27,559: Special key Key.ctrl_l pressed
+2025-03-06 00:35:27,865: Key  pressed
+2025-03-06 00:35:39,107: Special key Key.ctrl_l pressed
+2025-03-06 00:35:39,460: Key  pressed
+2025-03-06 00:35:41,643: Key . pressed
+2025-03-06 00:35:41,847: Key p pressed
+2025-03-06 00:35:42,366: Key y pressed
+2025-03-06 00:35:42,580: Special key Key.enter pressed
+2025-03-06 00:36:07,055: Special key Key.ctrl_l pressed
+2025-03-06 00:36:07,474: Key  pressed
+2025-03-06 00:36:12,082: Special key Key.ctrl_l pressed
+2025-03-06 00:36:12,519: Key  pressed
+2025-03-06 00:36:14,116: Special key Key.ctrl_l pressed
+2025-03-06 00:36:14,383: Key  pressed
+2025-03-06 00:36:17,979: Special key Key.ctrl_l pressed
+2025-03-06 00:36:18,312: Key  pressed
+2025-03-06 00:36:21,362: Special key Key.ctrl_l pressed
+2025-03-06 00:36:21,669: Key  pressed
+2025-03-06 00:36:23,334: Special key Key.ctrl_l pressed
+2025-03-06 00:36:23,609: Key  pressed
+2025-03-06 00:36:24,991: Special key Key.ctrl_l pressed
+2025-03-06 00:36:26,647: Key  pressed
+2025-03-06 00:36:36,276: Special key Key.ctrl_l pressed
+2025-03-06 00:36:37,315: Key  pressed
+2025-03-06 00:36:41,249: Special key Key.ctrl_l pressed
+2025-03-06 00:36:41,561: Key  pressed
+2025-03-06 00:36:44,737: Special key Key.ctrl_l pressed
+2025-03-06 00:36:45,439: Key  pressed
+2025-03-06 00:36:50,871: Special key Key.ctrl_l pressed
+2025-03-06 00:36:52,000: Key  pressed
+2025-03-06 00:36:52,896: Special key Key.enter pressed
+2025-03-06 00:37:38,783: Special key Key.ctrl_l pressed
+2025-03-06 00:37:39,117: Key  pressed
+2025-03-06 00:37:39,976: Special key Key.enter pressed
+2025-03-06 00:38:05,143: Special key Key.ctrl_l pressed
+2025-03-06 00:38:05,509: Key  pressed
